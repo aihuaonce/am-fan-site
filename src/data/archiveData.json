@@ -1,0 +1,64 @@
+{
+    "groupOverview": {
+      "name": "Ave Mujica",
+      "establishedDate": "2023-09-07",
+      "concept": "現實與虛幻的交織，一場關於審判與重生的皮影戲。",
+      "description": "BanG Dream! 企劃中的神秘樂團，以其獨特的世界觀和戲劇性的音樂風格吸引著粉絲。"
+    },
+    "members": [
+      {
+        "id": "chihaya",
+        "name": "椎名 立希 (Shiina Taki)",
+        "characterName": "初華 (Uika)",
+        "position": "吉他手 & 主唱",
+        "voiceActor": "佐倉 綾音",
+        "bioSummary": "神秘而充滿魅力的主唱，其歌聲如同魔咒般引人入勝。"
+      },
+      {
+        "id": "kanon",
+        "name": "高松 燈 (Takamatsu Tomori)",
+        "characterName": "歌姬 (Utahime)",
+        "position": "貝斯手",
+        "voiceActor": "羊宮 妃那",
+        "bioSummary": "Ave Mujica 的貝斯手，以沉穩的演奏支撐著樂團的聲音。"
+      }
+    ],
+    "songs": [
+      {
+        "id": "mujica",
+        "title": "Ave Mujica",
+        "releaseDate": "2023-09-13",
+        "lyricsBy": "織田 かおり",
+        "composedBy": "藤田 淳平",
+        "album": "暫無",
+        "description": "樂團同名主打歌，充滿神秘感的序章。"
+      },
+      {
+        "id": "symbol",
+        "title": "符號",
+        "releaseDate": "2023-10-25",
+        "lyricsBy": "織田 かおり",
+        "composedBy": "藤田 淳平",
+        "album": "暫無",
+        "description": "深入樂團世界觀的關鍵歌曲。"
+      }
+    ],
+    "news": [
+      {
+        "id": "news-001",
+        "title": "Ave Mujica 首場獨立演唱會『The Abyss』圓滿落幕",
+        "date": "2024-03-10",
+        "category": "演唱會",
+        "summary": "Ave Mujica 於 XXX 舉辦了首場獨立演唱會，吸引了眾多粉絲參與，現場氣氛熱烈。",
+        "link": "#"
+      },
+      {
+        "id": "news-002",
+        "title": "新單曲「冥途」發售決定！",
+        "date": "2024-05-15",
+        "category": "音樂",
+        "summary": "Ave Mujica 最新單曲《冥途》將於 2024 年 7 月 24 日正式發售！",
+        "link": "#"
+      }
+    ]
+  }
